@@ -10,4 +10,4 @@ In this tests I am using a time based curve data to insert. The tests are focuse
 
 Check [my 'MS SQL - C# insert performance test' blog post][blog-url] about the test results.
 
-[blog-url]:  http://szunyog.github.io/archivers/mssql-csharp-insert-performance-test
+[blog-url]:  http://szunyog.github.io/archives/mssql-csharp-insert-performance-test
