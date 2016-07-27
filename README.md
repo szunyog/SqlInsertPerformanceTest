@@ -8,6 +8,6 @@ the appropriate method.
 In this tests I am using a time based curve data to insert. The tests are focused to determine which way is the best
  to insert several thousands records at one time.
 
-Check [my blog post][blog-url] about the test results.
+Check [my 'MS SQL - C# insert performance test' blog post][blog-url] about the test results.
 
-[blog-url]: http://szunyog.github.io/csharp/2015/03/31/mssql-csharp-insert-performance-test/
+[blog-url]:  http://szunyog.github.io/archivers/mssql-csharp-insert-performance-test
